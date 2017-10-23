@@ -3,6 +3,9 @@
     height:100%;
     font-size: 14px !important;
 }
+.is-primary{
+    background-color: #22c65b !important;
+}
  .img-circle {
     border-radius: 50% !important;
     margin: 5px !important;
