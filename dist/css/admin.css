@@ -14,6 +14,11 @@
     padding: 14px 15px !important;   
     color:#fff !important;   
 }
+
+.is-primary{
+    background-color: #A90E84 !important;
+}
+
 .main-header .navbar-custom-menu{
     float: right !important;   
 }
